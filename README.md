@@ -13,13 +13,14 @@ https://www.aliexpress.com/item/32989928508.html?spm=a2g0o.productlist.0.0.7b6c5
 
 
 I attached two buttons to pins 33 and 32.
-Pin 33 turns on Bluetooth
+Pin 33 turns on Bluetooth,
 Pin 32 wakes up the board.
 Both are pulled up. 
 Two LEDs are connected to pin 25.
 
 When Bluetooth is ON, you see the icon appear on the screen.
-You can send the following commands:
+
+You can send the following commands over Bluetooth:
 
   QR=<QR CODE CONTENT>
   
