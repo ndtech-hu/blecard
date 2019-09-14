@@ -39,3 +39,9 @@ You can send the following commands over Bluetooth:
   SV - SAVE IT TO FLASH
   
   RR - REFRESH SCREEN
+  
+Photos:
+  ![alt text](https://raw.githubusercontent.com/ndtech-hu/blecard/master/images/IMG_8269_s.jpg)
+  ![alt text](https://raw.githubusercontent.com/ndtech-hu/blecard/master/images/IMG_8271_s.jpg)
+  ![alt text](https://raw.githubusercontent.com/ndtech-hu/blecard/master/images/IMG_8225_s.jpg)
+  ![alt text](https://raw.githubusercontent.com/ndtech-hu/blecard/master/images/screenshot_crop.jpg)
