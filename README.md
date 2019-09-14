@@ -14,12 +14,12 @@ Two LEDs are connected to pin 25.
 
 When Bluetooth is ON, you see the icon appear on the screen.
 You can send the following commands:
-QR=<QR CODE CONTENT>
-TT=<TITLE>
-T1=<LINE 1>
-T2=<LINE 2>
-T3=<LINE 3>
-T4=<LINE 4>
-T5=<LINE 5>
-SV - SAVE IT TO FLASH
-RR - REFRESH SCREEN
+  QR=<QR CODE CONTENT>
+  TT=<TITLE>
+  T1=<LINE 1>
+  T2=<LINE 2>
+  T3=<LINE 3>
+  T4=<LINE 4>
+  T5=<LINE 5>
+  SV - SAVE IT TO FLASH
+  RR - REFRESH SCREEN
